@@ -1,0 +1,17 @@
+{
+    "updatedAt": "2024-02-03T22:35:24.773Z",
+    "freeItems": [
+        {
+            "name": "Item 1",
+            "audio": "/assets/audio/free/item1.mp3",
+            "image": "/assets/images/free/wallpapers/item1.png"
+        }
+    ],
+    "paidItems": [
+        {
+            "name": "Item",
+            "audio": "/assets/audio/paid/item5.mp3",
+            "image": "/assets/audio/paid/item5.png"
+        }
+    ]
+}

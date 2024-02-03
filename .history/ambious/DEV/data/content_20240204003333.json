@@ -1,0 +1,10 @@
+{
+    "updatedAt": "",
+    "freeItems": [
+        {
+            "name": "Item 1",
+            "audio": "/assets/audio/item1.mp3",
+            "image": "/assets/images/wallpapers/item1.png"
+        }
+    ]
+}
