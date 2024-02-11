@@ -2,9 +2,24 @@
   "updatedAt": "2024-02-03T22:41:36.115Z",
   "freeItems": [
     {
-      "name": "Item 1",
+      "name": "Water",
       "audio": "/assets/audio/gentle-ocean-waves-birdsong-and-gull-7109.mp3",
+      "image": "/assets/images/wallpapers/pexels-photo-189349.webp"
+    },
+    {
+      "name": "Fire",
+      "audio": "/assets/audio/campfire-crackling-fireplace-sound-119594.mp3",
+      "image": "/assets/images/wallpapers/pexels-photo-266604.webp"
+    },
+    {
+      "name": "Earth",
+      "audio": "/assets/audio/forest-with-small-river-birds-and-nature-field-recording-6735.mp3",
       "image": "/assets/images/wallpapers/pexels-photo-927414.jpeg"
+    },
+    {
+      "name": "Wind",
+      "audio": "/assets/audio/gentle-ocean-waves-birdsong-and-gull-7109.mp3",
+      "image": "/assets/images/wallpapers/pexels-oleksandr-p-362956.jpg"
     }
   ],
   "paidItems": [
